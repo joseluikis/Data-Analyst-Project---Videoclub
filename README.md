@@ -1,4 +1,4 @@
-# 🎬 Data Analyst Project – Videoclub (Sakila Database)
+# 🎬 Data Analyst Project – Videoclub
 
 ## 📌 Overview
 This project was developed to analyze the performance of a movie rental business using the Sakila database.  
